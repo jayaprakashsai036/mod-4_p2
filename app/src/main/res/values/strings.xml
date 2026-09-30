@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agentic SDC Project 2</string>
+    <string name="hint_message">Enter your message</string>
+    <string name="send">Send</string>
+</resources>
